@@ -1,0 +1,14 @@
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.exe
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.deps.json
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.runtimeconfig.json
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.runtimeconfig.dev.json
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.dll
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\bin\Debug\netcoreapp3.1\OrdenCalificaciones.pdb
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.csproj.AssemblyReference.cache
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.AssemblyInfo.cs
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.dll
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.pdb
+C:\Users\Sus Martinez Salas\Desktop\OrdenCalificaciones\OrdenCalificaciones\obj\Debug\netcoreapp3.1\OrdenCalificaciones.genruntimeconfig.cache
